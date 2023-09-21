@@ -14,3 +14,9 @@ h1 {
     color:rgb(253, 249, 250);
     text-transform: uppercase;
 }
+
+.sobre {
+    font-size: 25px;
+    color: white;
+    text-transform: uppercase;
+}
